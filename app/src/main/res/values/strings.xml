@@ -1,0 +1,15 @@
+<resources>
+<string name="app_name">ledscroll</string>
+<string-array name="spinner_items">
+    <item>gpiochip 1</item>
+    <item>gpiochip 2</item>
+    <item>gpiochip 3</item>
+    <item>gpiochip 4</item>
+    <item>gpiochip 5</item>
+    <item>gpiochip 6</item>
+    <item>gpiochip 7</item>
+    <item>gpiochip 8</item>
+    <item>gpiochip 9</item>
+    <item>gpiochip 10</item>
+</string-array>
+</resources>
